@@ -9,6 +9,7 @@ public:
 
             if(freq[num] > 1) return true;
         } 
+        
         return false;
     }
 };
