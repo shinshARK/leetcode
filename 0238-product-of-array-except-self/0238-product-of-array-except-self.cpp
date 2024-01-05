@@ -3,7 +3,6 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int size = nums.size();
         
-        
         int arrLeft[size], arrRight[size];
         arrLeft[0] = 1, arrRight[size - 1] = 1;
 
