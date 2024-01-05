@@ -8,7 +8,6 @@ public:
             freq[num]++;
             if(freq[num] > 1) return true;
         } 
-        
         return false;
     }
 };
