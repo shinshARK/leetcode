@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        
         int size = nums.size();
         
         int arrLeft[size], arrRight[size];
