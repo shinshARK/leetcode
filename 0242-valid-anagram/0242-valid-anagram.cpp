@@ -2,6 +2,7 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.length() != t.length()) return false;
+        
         int s_freq[26] = {0}, t_freq[26] = {0};
 
         for(const auto& character : s) {
