@@ -3,10 +3,12 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int size = nums.size();
         
+        
         int arrLeft[size], arrRight[size];
         arrLeft[0] = 1, arrRight[size - 1] = 1;
 
         vector<int> ans;
+        
 
         for(int i = 1, j = size - 2; i < size; i++, j--) {
             arrLeft[i] = arrLeft[i - 1] * nums[i - 1];
