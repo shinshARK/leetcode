@@ -16,6 +16,7 @@ public:
 
         }
         
+        
         for(int i = 0; i < size; i++) ans.push_back(arrLeft[i] * arrRight[i]);
 
         return ans;
