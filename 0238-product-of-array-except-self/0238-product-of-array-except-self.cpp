@@ -15,6 +15,7 @@ public:
             arrRight[j] = arrRight[j + 1] * nums[j + 1];
 
         }
+        
 
         for(int i = 0; i < size; i++) ans.push_back(arrLeft[i] * arrRight[i]);
 
