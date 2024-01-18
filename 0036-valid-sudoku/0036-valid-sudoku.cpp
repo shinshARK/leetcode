@@ -10,17 +10,20 @@ public:
                 if(board[i][j] == '.') continue;
 
                 auto it_row = row.find(board[i][j]);
-                if(it_row == row.end()) row.insert(board[i][j]);
-                else return false;
-
                 auto it_box = box[i/3][j/3].find(board[i][j]);
-                if(it_box == box[i/3][j/3].end()) box[i/3][j/3].insert(board[i][j]);
-                else return false;
-
                 auto it_col = col[j].find(board[i][j]);
-                if(it_col == col[j].end()) col[j].insert(board[i][j]);
-                else return false;
+
+                if(
+                    it_row != row.end() || 
+                    it_box != box[i/3][j/3].end() || 
+                    it_col != col[j].end()) 
+                    return false;
+
+                row.insert(board[i][j]);
+                box[i/3][j/3].insert(board[i][j]);
+                col[j].insert(board[i][j]);
                 
+
             }
             row.clear(); 
         }
