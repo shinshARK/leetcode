@@ -23,7 +23,6 @@ public:
                 box[i/3][j/3].insert(board[i][j]);
                 col[j].insert(board[i][j]);
                 
-
             }
             row.clear(); 
         }
