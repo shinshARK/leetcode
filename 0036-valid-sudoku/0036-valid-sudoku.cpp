@@ -24,8 +24,6 @@ public:
                 col[j].insert(board[i][j]);
                 
             }
-            
-            
             row.clear(); 
         }
 
