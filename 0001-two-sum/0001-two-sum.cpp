@@ -21,8 +21,11 @@ public:
             } 
             else if (current < target) i++;
             else j--;
-        }
-
+        } 
+        
+        
+        
+        
         return index;
 
         
