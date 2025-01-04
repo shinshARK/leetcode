@@ -43,4 +43,8 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/shinshARK/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
