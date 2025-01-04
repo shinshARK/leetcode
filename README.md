@@ -7,6 +7,7 @@ the time and space stats really differ every submission so take it with a grain 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shinshARK/leetcode/tree/master/0217-contains-duplicate) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shinshARK/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -23,6 +24,7 @@ the time and space stats really differ every submission so take it with a grain 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shinshARK/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
 ## Greedy
 |  |
@@ -31,6 +33,7 @@ the time and space stats really differ every submission so take it with a grain 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shinshARK/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
