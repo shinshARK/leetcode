@@ -27,6 +27,7 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shinshARK/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/shinshARK/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/shinshARK/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shinshARK/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
@@ -47,4 +48,12 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/shinshARK/leetcode/tree/master/0584-find-customer-referee) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shinshARK/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shinshARK/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
