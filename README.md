@@ -20,4 +20,20 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shinshARK/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Array
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
