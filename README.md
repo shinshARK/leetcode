@@ -29,6 +29,7 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shinshARK/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shinshARK/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shinshARK/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/shinshARK/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shinshARK/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -59,4 +60,8 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinshARK/leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shinshARK/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
