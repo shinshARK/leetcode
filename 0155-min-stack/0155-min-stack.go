@@ -1,3 +1,8 @@
+func init() {
+    debug.FreeOSMemory()
+    debug.SetGCPercent(0)
+}
+
 type MinStack struct {
     slice []int
     min []int
