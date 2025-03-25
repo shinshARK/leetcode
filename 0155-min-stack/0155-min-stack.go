@@ -1,37 +1,37 @@
 type MinStack struct {
-    Stack []int
-    MinStack []int
+    slice []int
+    min []int
 }
 
 
 func Constructor() MinStack {
-    return MinStack{make([]int, 0, 10), make([]int, 0, 10)}
+    return MinStack{make([]int, 0), make([]int, 0)}
 }
 
 
 func (this *MinStack) Push(val int)  {
-    this.Stack = append(this.Stack, val)
-    if len(this.MinStack) == 0 || val <= this.MinStack[len(this.MinStack) - 1] {
-        this.MinStack = append(this.MinStack, val)
+    this.slice = append(this.slice, val)
+    if len(this.min) == 0 || val <= this.min[len(this.min) - 1] {
+        this.min = append(this.min, val)
     }
 }
 
 
 func (this *MinStack) Pop()  {
-    if this.Stack[len(this.Stack) - 1] == this.MinStack[len(this.MinStack) - 1] {
-        this.MinStack = this.MinStack[:len(this.MinStack) - 1]
+    if this.slice[len(this.slice) - 1] == this.min[len(this.min) - 1] {
+        this.min = this.min[:len(this.min) - 1]
     }
-    this.Stack = this.Stack[:len(this.Stack) - 1]
+    this.slice = this.slice[:len(this.slice) - 1]
 }
 
 
 func (this *MinStack) Top() int {
-    return this.Stack[len(this.Stack) - 1]
+    return this.slice[len(this.slice) - 1]
 }
 
 
 func (this *MinStack) GetMin() int {
-    return this.MinStack[len(this.MinStack) - 1]
+    return this.min[len(this.min) - 1]
 }
 
 
