@@ -85,4 +85,12 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shinshARK/leetcode/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shinshARK/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shinshARK/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
