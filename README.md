@@ -13,6 +13,7 @@ the time and space stats really differ every submission so take it with a grain 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shinshARK/leetcode/tree/master/0020-valid-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shinshARK/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/shinshARK/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
@@ -77,5 +78,6 @@ the time and space stats really differ every submission so take it with a grain 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shinshARK/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/shinshARK/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
