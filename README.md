@@ -35,6 +35,7 @@ the time and space stats really differ every submission so take it with a grain 
 | [0217-contains-duplicate](https://github.com/shinshARK/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shinshARK/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/shinshARK/leetcode/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/shinshARK/leetcode/tree/master/0682-baseball-game) |
 | [1580-shuffle-the-array](https://github.com/shinshARK/leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/shinshARK/leetcode/tree/master/2058-concatenation-of-array) |
 | [2465-shifting-letters-ii](https://github.com/shinshARK/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -71,5 +72,10 @@ the time and space stats really differ every submission so take it with a grain 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shinshARK/leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/shinshARK/leetcode/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shinshARK/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
