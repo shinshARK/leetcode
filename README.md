@@ -79,5 +79,10 @@ the time and space stats really differ every submission so take it with a grain 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shinshARK/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/shinshARK/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/shinshARK/leetcode/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shinshARK/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
